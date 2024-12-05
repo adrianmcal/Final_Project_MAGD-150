@@ -1,6 +1,6 @@
 let score = 0;
 let combo = 0;
-let pegsHit = 49;
+let pegsHit = 0;
 let ballNum = 10;
 let pegs;
 let ball;
